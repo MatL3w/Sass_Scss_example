@@ -1,0 +1,13 @@
+{
+  "name": "sass_scss_example",
+  "version": "1.0.0",
+  "description": "Sass_Scss_example",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "style": "sass style.scss style.css",
+    "style-watch": "sass --watch style.scss:style.css"
+  },
+  "author": "",
+  "license": "ISC"
+}

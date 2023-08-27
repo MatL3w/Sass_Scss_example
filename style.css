@@ -1,4 +1,8 @@
-/* Add your styles here */
 body {
-    font-family: Arial, sans-serif;
-}
+  font-family: Arial, sans-serif;
+  background-color: black;
+  color: white; }
+  body p {
+    color: red; }
+
+/*# sourceMappingURL=style.css.map */
